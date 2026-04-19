@@ -1,3 +1,5 @@
+> Read the full article on Numoru: https://numoru.com/en/contributions/stack-ia-self-hosted-digital-ocean
+
 # ai-stack-do
 
 Production-ready self-hosted AI stack on a **single $40/month Digital Ocean droplet**.
