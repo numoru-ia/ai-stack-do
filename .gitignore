@@ -1,0 +1,7 @@
+.env
+certs/
+nginx/webroot/
+*.log
+.DS_Store
+terraform/.terraform/
+terraform/*.tfstate*
